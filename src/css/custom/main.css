@@ -1,0 +1,30 @@
+body > .container {
+    padding: 80px 15px 0;
+}
+
+.anchor {
+    padding-top: 90px;
+}
+
+.form-group.required .control-label:after {
+   content:"*";
+   color:red;
+}
+
+.highlight {
+    padding-top: 1rem;
+    background-color: #f7f7f9;
+}
+
+.fas {
+  display: inline-block;
+  margin-right: 0.3em;
+}
+.fab {
+  display: inline-block;
+  margin-right: 0.3em;
+}
+.far {
+  display: inline-block;
+  margin-right: 0.3em;
+}
